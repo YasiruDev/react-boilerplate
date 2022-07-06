@@ -1,0 +1,10 @@
+{
+  "posts": {
+    "status": true,
+    "data": [
+      { "id": 1, "title": "post 1", "author": "john" },
+      { "id": 2, "title": "post 2", "author": "Sam" }
+    ]
+  },
+  "comments": [{ "id": 1, "body": "some comment", "postId": 1 }]
+}
