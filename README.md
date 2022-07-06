@@ -20,3 +20,8 @@ Follow bellow script on CLI to run this Application
 ### .env configurations
 
 `REACT_APP_API_URL = http://localhost:3002/`
+
+### Setup jason-server
+
+1. Run `npm install -g json-server`
+2. Run `json-server --watch db.json --port 3004`
